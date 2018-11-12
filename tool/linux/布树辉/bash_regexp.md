@@ -15,7 +15,7 @@ ${BASH_REMATCH[1]}      - 第一个匹配 （从下标1开始）
 
 ## regexp for bash
 
-regexp_course="\[(.*/.*)\]"
+regexp_coursew="\[(.*/.*)\]"
 #regexp_student="\| *([^ ]*) * \| *[0-9]{11}.*"
 regexp_student="\|[ ]*([^ ]*)[ ]* \|[ ]*[0-9]{11}.*"
     
